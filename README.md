@@ -149,7 +149,7 @@ Password: 123456
 
 **Sachin Gornar**  
 🔧 Full Stack Developer | MERN | Django | JAVA | AI  
-📫 Email: sachin@example.com  
+📫 Email: gornarsachin2004@gmail.com
 🔗 LinkedIn: [linkedin.com/in/sachingornar](https://www.linkedin.com/in/sachin-gornar-b9ab1b25b/)
 
 ---
